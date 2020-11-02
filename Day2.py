@@ -8,9 +8,9 @@ def factorial(n):
 
 def fetch_trail_zeroes(fact):
     trail_count = 0
-    fact = str(fact)
-    fact = fact[::-1]
-    for char in fact:
+    fact = str(fact) #Converting the nunmber to a string.
+    fact = fact[::-1] #Reverse of a string.
+    for char in fact: #Checking for continuous 0s and adding it to a count number.
         if char == '0': trail_count += 1
         else: break
     return trail_count
