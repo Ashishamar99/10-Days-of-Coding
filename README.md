@@ -20,7 +20,8 @@ This is a collection of codes which were solved during the coding challenge.
 ----------------------------------------------------------------------------------------------------------------------------------------
 * __Day 4 -__ Find a common element in all rows of a row wise sorted matrix.
 
-  Input: 1 2 3 4 5 <br />
+  Input: <br />
+         1 2 3 4 5 <br />
          3 4 5 8 10 <br />
          3 5 7 9 11 <br />
          1 3 5 7 9 <br />
