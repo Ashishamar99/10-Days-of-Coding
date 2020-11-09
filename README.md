@@ -52,7 +52,13 @@ This is a collection of codes which were solved during the coding challenge.
          7 8 9 <br />
   Output: 1 2 3 5 7 8 9
 ----------------------------------------------------------------------------------------------------------------------------------------
-* __Day 8 -__
+* __Day 8 -__ You will be given n number of strings. You will have to find the lexographically smallest string and the lexographically largest string among these strings.
+
+  Input: 3 <br />
+        a ab abc <br />
+  Output: a abc
+----------------------------------------------------------------------------------------------------------------------------------------
+* __Day 9 -__
 
   Input:<br />
   Output:
