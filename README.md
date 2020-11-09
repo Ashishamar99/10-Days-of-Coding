@@ -55,7 +55,9 @@ This is a collection of codes which were solved during the coding challenge.
 * __Day 8 -__ You will be given n number of strings. You will have to find the lexographically smallest string and the lexographically largest string among these strings.
 
   Input: 3 <br />
-        a ab abc <br />
+         a <br />
+         ab <br />
+         abc <br />
   Output: a abc
 ----------------------------------------------------------------------------------------------------------------------------------------
 * __Day 9 -__
