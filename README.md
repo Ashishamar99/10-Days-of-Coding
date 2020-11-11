@@ -44,7 +44,7 @@ This is a collection of codes which were solved during the coding challenge.
           1 25 81
           9 25 49
 ----------------------------------------------------------------------------------------------------------------------------------------
-* __Day 7 -__
+* __Day 7 -__ Print the matrix in Z form.
 
   Input: <br />
          1 2 3 <br />
@@ -71,13 +71,22 @@ This is a collection of codes which were solved during the coding challenge.
          2 9 1 <br />
          4 0 7 <br />
 ----------------------------------------------------------------------------------------------------------------------------------------
-* __Day 10 -__
+* __Day 10 -__ Maximum product of 4 adjacent elements in a matrix.
 
-  Input:<br />
-  Output:
+  Input: n = 4 <br />
+         6 2 3 4 <br />
+         5 4 3 1 <br />
+         7 4 5 6 <br />
+         8 3 1 0 <br />
+  Output: 1680 <br />
+----------------------------------------------------------------------------------------------------------------------------------------
+* __Day 11 -__ 
+
+  Input: <br />
+  Output: <br />
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Commit Message Templates - 
 
-Day 9 Challenge Completed.
-Day 10 Template Added.
+Day 10 Challenge Completed.
+Day 11 Template Added.
