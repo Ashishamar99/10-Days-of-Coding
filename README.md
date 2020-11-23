@@ -80,13 +80,3 @@ This is a collection of codes which were solved during the coding challenge.
          8 3 1 0 <br />
   Output: 1680 <br />
 ----------------------------------------------------------------------------------------------------------------------------------------
-* __Day 11 -__ 
-
-  Input: <br />
-  Output: <br />
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Commit Message Templates - 
-
-Day 10 Challenge Completed.
-Day 11 Template Added.
